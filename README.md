@@ -1,6 +1,6 @@
 <!-- MASTER BANNER IMAGE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Attaur%20Rehman%20🚀&desc=Flutter%20Developer&descSize=20&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Attaur%20Rehman%20🚀&desc=Flutter%20Developer&descSize=20&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Attaur Rehman</h1>
