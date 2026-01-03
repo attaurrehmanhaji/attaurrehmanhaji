@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Attaur Rehman</h1>
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=oT3QWTQ0&id=1F47E44F92E2052EF51C4162CBF61F7094D99770&thid=OIP.oT3QWTQ0F0TTFmD7g4EH5wHaFj&mediaurl=https%3A%2F%2Fres.cloudinary.com%2Fupwork-cloud%2Fimage%2Fupload%2Fc_scale%2Cw_1000%2Fv1689293712%2Fcatalog%2F1679152259224129536%2Fjjdoyzhmrswgtgskp5zw.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.a13dd05934341744d31660fb838107e7%3Frik%3DcJfZlHAf9stiQQ%26pid%3DImgRaw%26r%3D0&exph=750&expw=1000&q=flutter+codieng+image&form=IRPRST&ck=EDFFD44B5F558B419D9FADA3E443A2B9&selectedindex=23&itb=0&cw=1145&ch=499&ajaxhist=0&ajaxserp=0&vt=2&sim=11&iss=VSI&cit=ccid_Im7VZZES*cp_7CBC5FC6BC79549C4055D8AE90EC6530*mid_A270F7EAD41AE41C120CE565275E9F2A35861014*thid_OIP.Im7VZZESwiP!_l-JCTfUgsgHaDt")
+(img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=attaurrehmanhaji&label=Profile%20views&color=0e75b6&style=flat" alt="attaurrehmanhaji" /> </p>
