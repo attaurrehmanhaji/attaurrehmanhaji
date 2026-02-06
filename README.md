@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Attaur%20Rehman%20🚀&desc=Flutter%20Developer&descSize=20&fontSize=40&fontColor=ffffff" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Attaur Rehman</h1>
-<h3 align="center">A passionate Flutter developer from Pakistan</h3>
-
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer;Student;Freelancer;Learning+Something+New+Every+Day" />
